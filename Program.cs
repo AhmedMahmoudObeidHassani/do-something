@@ -22,10 +22,7 @@ namespace OOP_Progect_Library
 
             WriteLine("will we see it?");
 
-
-
-
-
+            WriteLine("it work");
 
         }
 
