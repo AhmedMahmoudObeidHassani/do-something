@@ -24,6 +24,7 @@ namespace OOP_Progect_Library
             WriteLine("jkashfjklashdfjkhsdjkfhsdjklfhsd");
             WriteLine("it work");
 
+            WriteLine("t7y89965447899ee");
         }
 
     }
